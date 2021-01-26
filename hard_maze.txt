@@ -1,0 +1,25 @@
+"XXXXXXXXXXXXXXXXXXXXXXXXX
+ X                  XXXXXX
+ XXXXXXXXXXXXXX  XXXXXXXXX
+ XXX        XXX    XXXXXXX
+ XXXXXXXXX         XXXXXXX
+ X                       X
+ XX   XXXXXXXXXXXXXXXXXXXX
+ X       XXXXXX   XXXXXXXX
+ XXXX    XXXXXX   XXXXXXXX
+ XXXXXX                  X
+ X      XXXXXX      XXXXXX
+ X  XXXXX      XXXXXXXXXXX
+ X                       X
+ X XXXXX        XXXXXXXXXX
+ X                     XXX
+ X    XXXXXXXXXXXXXXXXXXXX
+ X                       X
+ XXXXXXXXXXXXXXXXXX      X
+ X                       X
+ XXXXXX       XXXXXXXXXXXX
+ XXXXXXXXXXX             X   
+ X                       X
+ X  XXXXXXXXXXX  X X XXX X
+ X                       X
+ XXXXXXXXXXXXXXXXXXXXXXXXX"

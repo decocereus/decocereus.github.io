@@ -1,0 +1,12 @@
+"XXXXXXXXXXXXXXXXXXXXXXXXX
+ X                       X
+ X  XXXXXXXXXXX    XXXXXXX
+ X  XXXXXXXXXXX    XXXXXXX
+ X                       X
+ X    XXXXXXXXXXXXXXXXXXXX
+ X                XXXXXXXX
+ XXXXXXXXXXXX     XXXXXXXX
+ XXXXXXXXXXXX            X
+        XXXXX       XXXXXX
+ X                        
+ XXXXXXXXXXXXXXXXXXXXXXXXX"
